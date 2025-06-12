@@ -7,7 +7,7 @@ Welcome to my curated collection of **Data Structures and Algorithms** problems,
 ## 📘 What You'll Find
 
 - ✅ Topic-wise theory summaries  
-- ✅ Code implementations in Java / C++ / Python (you can mention your language)  
+- ✅ Code implementations in Java    
 - ✅ Commonly used DSA patterns (like sliding window, two pointers, etc.)  
 - ✅ Practice problems with explanations  
 - ✅ Beginner to advanced level questions  
